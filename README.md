@@ -18,16 +18,9 @@ I'm a passionate developer from China
 | ------------- | ------------- |
 
 #### Top Repositories
+| <a href="https://github.com/martin-chips/DimpleBlog"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=martin-chips&repo=DimpleBlog&theme=buefy"/></a> | <a href="https://github.com/martin-chips/EAMS"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=martin-chips&repo=EAMS&theme=buefy" /></a> |
+| ------------- | ------------- |
+|<a href="https://github.com/martin-chips/online_exam_system"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=martin-chips&repo=online_exam_system&theme=buefy" /></a>||
 
-
-<a href="https://github.com/martin-chips/DimpleBlog">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=martin-chips&repo=DimpleBlog&theme=buefy" />
-</a>
-<a href="https://github.com/martin-chips/EAMS">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=martin-chips&repo=EAMS&theme=buefy" />
-</a>
-<a href="https://github.com/martin-chips/online_exam_system">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=martin-chips&repo=online_exam_system&theme=buefy" />
-</a>
 <br />
 <br />
